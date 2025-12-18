@@ -1,0 +1,16 @@
+name = "Queer Minecraft Server Modpack"
+author = "arc2-group"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3ba4c8acff4e3725c172ba61fb93f67db274d273890f55ecb34cac64aaf8b919"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.21.11"
+
+[options]
+acceptable-game-versions = []

@@ -1,0 +1,111 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "bf1cd023d328ab35eb85ffeffc55d2177dc603b28f5e168f87dd15d169d09a3f"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "4bad5720d383f38e68af1a423c66808a966845a362216548eba010608fa4e2fd"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.pw.toml"
+hash = "0fc2fbb0fbfa634285df8840cc5e511f2817891ba7b8ab900deee8b5f95c4725"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+metafile = true
+
+[[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "5b0491bcaad6a280809d8abc33eb20a9613fec528d29b645567aad981fff4972"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "ece34207ca75882863aa616328af686011fd554595b80a7858ddcc4848d5768d"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "1b2033438cfcffb8915c7775981fe93e0847fa65735c32688ecbe432b7bd2e3e"
+metafile = true
+
+[[files]]
+file = "mods/grimac.pw.toml"
+hash = "201e02ccecbdb4d345514747c677c5925846b8191a9262e11588d1246c6cae78"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "052f06542206356664307ad7f73ef7d37123da055dc362f13cfe76839afdb73a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "772dfab5c9623199bf2438c5e8d836f0fc480c33d9f4517759074c69cdcbe89e"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "5936eea7a83a33027fae99530fec0fa76511ee1ecbfee8125944ba1f470e7713"
+metafile = true
+
+[[files]]
+file = "mods/skinsrestorer.pw.toml"
+hash = "c21356534403233936c64c240e0e32e58036a54b43227d7cfcb28eff1ec713a7"
+metafile = true
+
+[[files]]
+file = "mods/sneaky-server.pw.toml"
+hash = "409c68e642c753de6769f3652a510655d328f8d2bd3a468cd13a5989a0fa4310"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+metafile = true
+
+[[files]]
+file = "mods/vanish.pw.toml"
+hash = "21c684c09347eed478d7bf512ccad32d5cea4b94cc33c1723b3d8d1a4e16b97b"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "158242203ca5ed82f7c2628f0c2ec05c94a93d6102a8fd88a21aa9fe30afee76"
+metafile = true
