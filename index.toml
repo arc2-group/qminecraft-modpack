@@ -66,11 +66,6 @@ hash = "03ee53f32395efe2456597bad414e2180bfc7d3e7d4a56d69af37f8f5be92e8a"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "8f6e0157b42ba668c0ba9aa7eff94b3b91a8f58bcd357e574d70a7b160d4337c"
-metafile = true
-
-[[files]]
 file = "mods/ledger.pw.toml"
 hash = "052f06542206356664307ad7f73ef7d37123da055dc362f13cfe76839afdb73a"
 metafile = true
@@ -108,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/vanish.pw.toml"
 hash = "21c684c09347eed478d7bf512ccad32d5cea4b94cc33c1723b3d8d1a4e16b97b"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "2f75ccab5dfa7f3489a48e61b3f74b69cb3ef60aa76de599c93d6c162ef71d1d"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "efc5c879cda829efd15fb8bc3bc1bfb218fc7502b5d0a85d495d8b33d58180e3"
 metafile = true
 
 [[files]]
