@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
 metafile = true
