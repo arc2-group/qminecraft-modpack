@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/grimac.pw.toml"
-hash = "201e02ccecbdb4d345514747c677c5925846b8191a9262e11588d1246c6cae78"
+hash = "03ee53f32395efe2456597bad414e2180bfc7d3e7d4a56d69af37f8f5be92e8a"
 metafile = true
 
 [[files]]
@@ -87,12 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinsrestorer.pw.toml"
-hash = "c21356534403233936c64c240e0e32e58036a54b43227d7cfcb28eff1ec713a7"
-metafile = true
-
-[[files]]
-file = "mods/sneaky-server.pw.toml"
-hash = "409c68e642c753de6769f3652a510655d328f8d2bd3a468cd13a5989a0fa4310"
+hash = "8b4e140351fb9c5ab9d7df5031b3f5184fd4ae801f93cfe1993af4b5a0d41a0f"
 metafile = true
 
 [[files]]
