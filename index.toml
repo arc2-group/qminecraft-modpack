@@ -6,6 +6,11 @@ hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "ab5d642244ca6e19d58fb0b199985724620bf44d3dbad506e23c2d4c93a4bcb3"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "ee5a9ad071c2c1c82932b5b5e7731b3bf27e4342bee6082aef03fa431b02e195"
 metafile = true
 
 [[files]]
