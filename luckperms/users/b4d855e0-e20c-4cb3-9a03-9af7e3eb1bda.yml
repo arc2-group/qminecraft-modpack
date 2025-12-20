@@ -1,0 +1,7 @@
+uuid: b4d855e0-e20c-4cb3-9a03-9af7e3eb1bda
+name: ArchIsStable
+primary-group: default
+permissions:
+- luckperms.*
+parents:
+- default

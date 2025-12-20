@@ -73,6 +73,18 @@ file = "config/bluemap/webserver.conf"
 hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
 
 [[files]]
+file = "config/luckperms/luckperms.conf"
+hash = "d3076fcb9ece3a3b93e172f6cf230494fccdd530d6d79b873b35f76b5125c253"
+
+[[files]]
+file = "luckperms/groups/default.yml"
+hash = "bc90b8909f6e52ed2b575b7b3891853735af74a44f3198f3665c0346b7d0fd3a"
+
+[[files]]
+file = "luckperms/users/b4d855e0-e20c-4cb3-9a03-9af7e3eb1bda.yml"
+hash = "f53b80ba6f0bc06c077a9d482be2d39978fc2275bdfbf2cfe3a311f1ea6f1dc5"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 metafile = true
@@ -150,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
 
 [[files]]
