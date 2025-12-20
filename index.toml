@@ -26,13 +26,13 @@ hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+file = "mods/fabricexporter.pw.toml"
+hash = "1370e0f64df6a8c59c651a949b107915b630b8cb66a754ad370e9f06f471654e"
 metafile = true
 
 [[files]]
-file = "mods/fabricexporter.pw.toml"
-hash = "5b0491bcaad6a280809d8abc33eb20a9613fec528d29b645567aad981fff4972"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]

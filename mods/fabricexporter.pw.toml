@@ -1,13 +1,15 @@
-name = "FabricExporter"
-filename = "fabricexporter-1.0.19.jar"
+name = "fabric-exporter"
+filename = "fabricexporter-1.0.20.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/dbVXHSlv/versions/OT2QwJUv/fabricexporter-1.0.19.jar"
-hash-format = "sha512"
-hash = "00e46a5337a31318093d598cd027b709b141ea76c10a2639cff3487512833d910b3e814c80dc19a88f2a4ccf175cb1633635442625628602a2068a39f38baa0e"
+url = "https://github.com/WhoDis2372/fabric-exporter/releases/download/v1.0.20/fabricexporter-1.0.20.jar"
+hash-format = "sha256"
+hash = "b5d67411287373b00b41f02137a88308ddf33ceab0dfdd5562e2dc907be6281d"
 
 [update]
-[update.modrinth]
-mod-id = "dbVXHSlv"
-version = "OT2QwJUv"
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "WhoDis2372/fabric-exporter"
+tag = "v1.0.20"
