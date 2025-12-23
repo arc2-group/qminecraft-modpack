@@ -195,6 +195,11 @@ hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
 metafile = true
 
 [[files]]
+file = "mods/statsmod.pw.toml"
+hash = "54acb45b90bace0ccc5e99a583deaabf51d16327194a5d9ca45870effe0ad807"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "ee5a9ad071c2c1c82932b5b5e7731b3bf27e4342bee6082aef03fa431b02e195"
 metafile = true
