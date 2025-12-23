@@ -77,11 +77,11 @@ file = "config/luckperms/luckperms.conf"
 hash = "d3076fcb9ece3a3b93e172f6cf230494fccdd530d6d79b873b35f76b5125c253"
 
 [[files]]
-file = "luckperms/groups/default.yml"
+file = "luckperms/yaml-storage/groups/default.yml"
 hash = "bc90b8909f6e52ed2b575b7b3891853735af74a44f3198f3665c0346b7d0fd3a"
 
 [[files]]
-file = "luckperms/users/b4d855e0-e20c-4cb3-9a03-9af7e3eb1bda.yml"
+file = "luckperms/yaml-storage/users/b4d855e0-e20c-4cb3-9a03-9af7e3eb1bda.yml"
 hash = "f53b80ba6f0bc06c077a9d482be2d39978fc2275bdfbf2cfe3a311f1ea6f1dc5"
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricexporter.pw.toml"
-hash = "aed5156b40e4482eb2659058f76e6aacb5e1bdf7e7ea4394daf3e9e9235b5dbe"
+hash = "507d6c5b9774a05a58e60b67692830d0637c4348b07b1d162224823e39dcb68f"
 metafile = true
 
 [[files]]
