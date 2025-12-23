@@ -3,5 +3,7 @@ name: ArchIsStable
 primary-group: default
 permissions:
 - luckperms.*
+- luckperms.autoop
+- grim.alerts
 parents:
 - default
