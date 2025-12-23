@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1b6acd374e376f9dee939184a228eb8b1a8fd1abb5074a8a6cff2473712aeadb"
+hash = "c252a208703bd1e996fb036540d1ed1017acf04eb99263f1792839d179b406c5"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "816a274a51586b2a1e328b70fef8aba88c8e0c64205bebb2773cde8bc205f20f"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/grimac.pw.toml"
-hash = "03ee53f32395efe2456597bad414e2180bfc7d3e7d4a56d69af37f8f5be92e8a"
+hash = "3d6d45db75a53f0ad5c9854f95ef07fb8118c474bd2db53231a0b1eabb7d1680"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5936eea7a83a33027fae99530fec0fa76511ee1ecbfee8125944ba1f470e7713"
+hash = "0cbc900ae05bdd88801539eeee6b95dde99426f1d5c2c7c8c194e5f78bbd6e52"
 metafile = true
 
 [[files]]
