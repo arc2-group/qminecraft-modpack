@@ -73,6 +73,10 @@ file = "config/bluemap/webserver.conf"
 hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
 
 [[files]]
+file = "config/ledger.toml"
+hash = "6f8379d0c0ef4d10af25cf940f16e4378808a26f926081f44e6bf83d4258a708"
+
+[[files]]
 file = "config/luckperms/luckperms.conf"
 hash = "d3076fcb9ece3a3b93e172f6cf230494fccdd530d6d79b873b35f76b5125c253"
 
