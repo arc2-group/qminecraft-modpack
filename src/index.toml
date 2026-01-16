@@ -141,12 +141,12 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "120044ef624e8bd6d1e5364a9c48e54fce3494cd041ab01cd0a0222ce728674b"
+hash = "726a9f5ed39577d00c1ef6e87ab81c91d985ef5961af89d7a9de793afd8a2a30"
 metafile = true
 
 [[files]]
 file = "mods/grimac.pw.toml"
-hash = "a6e0749286c24fb77908ed02f5625ccad7b55d3075be8d5050ea67fac01409a7"
+hash = "cc809ea025318e35b2300bfbd2bf6b60874898c2a7c40b1fcf3b0fe356e4e3c7"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinsrestorer.pw.toml"
-hash = "2cb75d9bb7eb4069fefbc759bf44b0df087de59389b9c035b911a6d00333a4a0"
+hash = "4931535bd01a12d092e2e649d7a53e8404b02c944d93ff71c3b343e457817ce1"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "889c0d6ef59bd0b3943dcfe61d5e80e29969a51378f2997c39ab14c7795d4a4c"
+hash = "03e7ff71a73cf26ace9eda49606f2baa1d78dcac585d494478dd605e06f63ba8"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "549f7104f20e723323322a63a6cd6f9c004e226def109f0e2df8dfb29c71f3aa"
+hash = "3afb8146397199564ddc80b33cba08e289f9bfd10720fb548262aee631fa97f8"
 metafile = true
 
 [[files]]
@@ -231,5 +231,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "158242203ca5ed82f7c2628f0c2ec05c94a93d6102a8fd88a21aa9fe30afee76"
+hash = "5aed63b141e338e9eace980e591b108312cb68d053b33eb54f2a2d749cc20514"
 metafile = true
