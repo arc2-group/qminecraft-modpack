@@ -165,8 +165,18 @@ hash = "0fcb21a2580ad82270c404aa36e042926a7f35b0151f785bd6c6afce23e6edc4"
 metafile = true
 
 [[files]]
+file = "mods/mob-heads.pw.toml"
+hash = "c3d78afbbcc00505d5005c23c3772e3fa07e088b6187eda9a5eed7d837bacc71"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "772dfab5c9623199bf2438c5e8d836f0fc480c33d9f4517759074c69cdcbe89e"
+metafile = true
+
+[[files]]
+file = "mods/player-drops-head.pw.toml"
+hash = "a7df90e503c6b85156d3224f025807dcfb54032930376bb19218033fdd1f6c87"
 metafile = true
 
 [[files]]
