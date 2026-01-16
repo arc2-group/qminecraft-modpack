@@ -210,6 +210,11 @@ hash = "cf2a50560f03613b7356103544a1f11d38da73fc445b5ec0b5a29c10543c3cfd"
 metafile = true
 
 [[files]]
+file = "mods/universal-ledger.pw.toml"
+hash = "5ff199327487af61028ccb607f882fd93ab4c768c19e69bf1ecda82145256bff"
+metafile = true
+
+[[files]]
 file = "mods/vanish.pw.toml"
 hash = "03e7ff71a73cf26ace9eda49606f2baa1d78dcac585d494478dd605e06f63ba8"
 metafile = true
