@@ -78,7 +78,7 @@ hash = "d3076fcb9ece3a3b93e172f6cf230494fccdd530d6d79b873b35f76b5125c253"
 
 [[files]]
 file = "luckperms/yaml-storage/groups/default.yml"
-hash = "bc90b8909f6e52ed2b575b7b3891853735af74a44f3198f3665c0346b7d0fd3a"
+hash = "636d0138dded959a81a02849e2620d00c65e510ff20c2c54a62016ae6b1850eb"
 
 [[files]]
 file = "luckperms/yaml-storage/users/b4d855e0-e20c-4cb3-9a03-9af7e3eb1bda.yml"
