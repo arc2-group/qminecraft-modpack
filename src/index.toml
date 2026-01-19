@@ -145,12 +145,12 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "726a9f5ed39577d00c1ef6e87ab81c91d985ef5961af89d7a9de793afd8a2a30"
+hash = "9674aa397a60cfa549ddd9c0d69458c858aa90163affa5becabe77ee9df24e2c"
 metafile = true
 
 [[files]]
 file = "mods/grimac.pw.toml"
-hash = "cc809ea025318e35b2300bfbd2bf6b60874898c2a7c40b1fcf3b0fe356e4e3c7"
+hash = "89d387741a19739624f327393fb6b57a512bffb588b8c3c8deb93da14170f108"
 metafile = true
 
 [[files]]
