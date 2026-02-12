@@ -154,6 +154,11 @@ hash = "31659912e0bda25fad16c128e1217d7a5588930c718586811e55997e1c4ff096"
 metafile = true
 
 [[files]]
+file = "mods/lead-fences.pw.toml"
+hash = "e749507a9d549833a7089b57a120712996f398fb199a36d77e37ccabc1c476a3"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
 hash = "c8c5df688622763ec590fda0b1c4d4adfd0152668db433f342cecd99fdd3fa0b"
 metafile = true
@@ -181,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/player-drops-head.pw.toml"
 hash = "a7df90e503c6b85156d3224f025807dcfb54032930376bb19218033fdd1f6c87"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
 metafile = true
 
 [[files]]

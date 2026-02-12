@@ -1,0 +1,13 @@
+name = "Lead Fences"
+filename = "better_leads-1.2.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/vzUR7D6G/versions/F4ikJyMk/better_leads-1.2.1.jar"
+hash-format = "sha512"
+hash = "cf0a5cfd531929d6666afb5ec9dc502f1c18bcf123fe4a277fd2291f0ee926ddd8553a16270a1807cc66772c6f0c12917bac03b3fd65b85eb61a073f40986d69"
+
+[update]
+[update.modrinth]
+mod-id = "vzUR7D6G"
+version = "F4ikJyMk"
