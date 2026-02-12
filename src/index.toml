@@ -18,7 +18,7 @@ hash = "f48492909742061009b84298893d2c6dde55301ec3447da24bc52d4e9e89a1cf"
 
 [[files]]
 file = "config/EasyAuth/technical.conf"
-hash = "ad1e69d75a75503779ac12af9ec7462c4fdfe2f8087504b1b08fe9f108338471"
+hash = "4fca1ce3243a886e1393899aef202c5bf4d9366c060a3ac232fd3effc6b0be87"
 
 [[files]]
 file = "config/EasyAuth/translation.conf"
