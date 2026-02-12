@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ff260b35492778bdce59ffa064a59c6a9953ffd409eb40782af14b78a29a2cb8"
+hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
 
 [[files]]
@@ -120,12 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39b4f43a271700276ff1ae632cf05f90b85f79670d955b50ced036e363a0efe9"
+hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
@@ -145,22 +145,22 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "9674aa397a60cfa549ddd9c0d69458c858aa90163affa5becabe77ee9df24e2c"
+hash = "d898dd81cf54910a405adce0fc794152156a3b378eaa92852b3e85afbc519e1f"
 metafile = true
 
 [[files]]
 file = "mods/grimac.pw.toml"
-hash = "89d387741a19739624f327393fb6b57a512bffb588b8c3c8deb93da14170f108"
+hash = "31659912e0bda25fad16c128e1217d7a5588930c718586811e55997e1c4ff096"
 metafile = true
 
 [[files]]
 file = "mods/ledger.pw.toml"
-hash = "052f06542206356664307ad7f73ef7d37123da055dc362f13cfe76839afdb73a"
+hash = "c8c5df688622763ec590fda0b1c4d4adfd0152668db433f342cecd99fdd3fa0b"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
+hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-heads.pw.toml"
-hash = "c3d78afbbcc00505d5005c23c3772e3fa07e088b6187eda9a5eed7d837bacc71"
+hash = "a00411aedc076b4fa77c1e211a5578ca94ab68b46692b24e75cb5d1571dfa96a"
 metafile = true
 
 [[files]]
@@ -190,12 +190,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9ff1a261860fcb16a7c7f124d738abcdfc1297363412d237540685003ff04d6b"
+hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
 metafile = true
 
 [[files]]
 file = "mods/skinsrestorer.pw.toml"
-hash = "4931535bd01a12d092e2e649d7a53e8404b02c944d93ff71c3b343e457817ce1"
+hash = "631c704e99568194e75472bdc36c9c52e8f815584dc31ebce969897fe2a33084"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "cf2a50560f03613b7356103544a1f11d38da73fc445b5ec0b5a29c10543c3cfd"
+hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
 metafile = true
 
 [[files]]
@@ -225,5 +225,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5aed63b141e338e9eace980e591b108312cb68d053b33eb54f2a2d749cc20514"
+hash = "147236c9b21df25b05d0715f21faf8c9b89dfa7af9d157c532f8e94887d47a65"
 metafile = true
