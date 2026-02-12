@@ -94,6 +94,11 @@ hash = "ff1763afa21669a76a9ca65735944986ec4ef7a0d440b98ee2154aafa46356c8"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "6dadeddb1d21f0f0dcb82e671c16efd95959cabf15dba2cdedb228b7a085d274"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
 metafile = true
@@ -101,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
