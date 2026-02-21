@@ -164,6 +164,11 @@ hash = "31659912e0bda25fad16c128e1217d7a5588930c718586811e55997e1c4ff096"
 metafile = true
 
 [[files]]
+file = "mods/knock-u-back.pw.toml"
+hash = "72995c687d33011c32d4cbf528ae161ce8235bf4563e5c784130fe1276308ac1"
+metafile = true
+
+[[files]]
 file = "mods/lead-fences.pw.toml"
 hash = "e749507a9d549833a7089b57a120712996f398fb199a36d77e37ccabc1c476a3"
 metafile = true

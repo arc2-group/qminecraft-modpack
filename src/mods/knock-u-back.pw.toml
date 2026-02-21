@@ -1,0 +1,13 @@
+name = "Knock U Back"
+filename = "knockuback-fabric-1.21.11-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pDZSiYyP/versions/QFKJYqVN/knockuback-fabric-1.21.11-2.0.0.jar"
+hash-format = "sha512"
+hash = "60e24246ba789097e0495b3bad1df5fdac2f393edf6288df548ae55b2d55d33a3d37033b076729af27b1ded3c209aad0d12f5ae8bc74f9b9d3748e28ab146a82"
+
+[update]
+[update.modrinth]
+mod-id = "pDZSiYyP"
+version = "QFKJYqVN"
