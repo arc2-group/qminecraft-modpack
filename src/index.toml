@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
+hash = "62918065759cc57713c2396de35daa19b378cca8140e1a400ecf67ffbf52e9b4"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "4bad5720d383f38e68af1a423c66808a966845a362216548eba010608fa4e2fd"
+hash = "a597f142f290e412e47ec4c9d5e6b03ebeff17584c0401fea0f062adfbda3ce4"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "d898dd81cf54910a405adce0fc794152156a3b378eaa92852b3e85afbc519e1f"
+hash = "b26da5ee6b4e06b6803075e5829a0f225f970b9134ddf43d567d1c0df1a5b97d"
 metafile = true
 
 [[files]]
@@ -250,5 +250,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "147236c9b21df25b05d0715f21faf8c9b89dfa7af9d157c532f8e94887d47a65"
+hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
 metafile = true
