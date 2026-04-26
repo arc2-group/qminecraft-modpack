@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "6dadeddb1d21f0f0dcb82e671c16efd95959cabf15dba2cdedb228b7a085d274"
+hash = "bef488ad5ab96f030ab6e8779a665b36bd222e2e3945facd5a30a7347cf03319"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
+hash = "037350c2aa47c78e4223154291da5d6dd51e515015d78741f64d3d7b71e25111"
 metafile = true
 
 [[files]]
@@ -115,12 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
+hash = "3de89e93b02577680f5b6aace8f5cd604e182cd38fc11760fbc03ba518f71a7f"
 metafile = true
 
 [[files]]
 file = "mods/easyauth.pw.toml"
-hash = "a597f142f290e412e47ec4c9d5e6b03ebeff17584c0401fea0f062adfbda3ce4"
+hash = "782f57afa2b34aa59850a984ca846af48599f107ed3a10d3ff62e850a42788dd"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "337d97b990f76c91584b12600651ae7bd47a0824e45070b3d9330b0922149fc0"
 metafile = true
 
 [[files]]
@@ -150,17 +150,17 @@ metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "ece34207ca75882863aa616328af686011fd554595b80a7858ddcc4848d5768d"
+hash = "5e22a9a711566e3db69ea33c99e593ef03141d1476cffc099353e7851896c818"
 metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "b26da5ee6b4e06b6803075e5829a0f225f970b9134ddf43d567d1c0df1a5b97d"
+hash = "0f4ede9f05d564a96558badb69eb84cfdb71397186d2a14da2d3284f13b9d503"
 metafile = true
 
 [[files]]
 file = "mods/grimac.pw.toml"
-hash = "31659912e0bda25fad16c128e1217d7a5588930c718586811e55997e1c4ff096"
+hash = "57be0f2eab6e90eefd35703bcf0e44d4785db5ec832806581f7dbcaba7538c8d"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/mob-heads.pw.toml"
-hash = "a00411aedc076b4fa77c1e211a5578ca94ab68b46692b24e75cb5d1571dfa96a"
+hash = "ab5c1923ad6937280339da2f261185d7127cad53c0d2acb3e2f40a0f549fee94"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-drops-head.pw.toml"
-hash = "a7df90e503c6b85156d3224f025807dcfb54032930376bb19218033fdd1f6c87"
+hash = "954890ef89b441e23a3075c8030669c2b8e9271cbca0a60edf7392ef6918d7e0"
 metafile = true
 
 [[files]]
@@ -215,17 +215,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c064e431015fe06786c17e18b8cfc28751a994e2ee251a357c0043a72f649403"
+hash = "2eecfde12159410aa97c09f4010cd18229460c0442ceeeb162b8eeb7fa5ffae4"
 metafile = true
 
 [[files]]
 file = "mods/skinsrestorer.pw.toml"
-hash = "631c704e99568194e75472bdc36c9c52e8f815584dc31ebce969897fe2a33084"
+hash = "99205999074d1f600bb3437f3081230843fae3e277ea577203aa29789bb92a66"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+hash = "fc9e8b3b78f2b454d260f7cefa26834a352e146cdcfd44a6637544df335087a1"
 metafile = true
 
 [[files]]
@@ -235,17 +235,17 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "a9a12d51606befdc928f127ceff3c0b2ebaf4ca61ff80d62c1290e4d72b91ff8"
+hash = "55e6f3c2e756c504561ac483a9bce2758fbfc7ae6e0f5100a5a3b31ee95b0bf2"
 metafile = true
 
 [[files]]
 file = "mods/universal-ledger.pw.toml"
-hash = "5ff199327487af61028ccb607f882fd93ab4c768c19e69bf1ecda82145256bff"
+hash = "50b23505d8f73919eef13ddff076dbc929a0222fa3ec55456ed237ba7cbae7ad"
 metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "03e7ff71a73cf26ace9eda49606f2baa1d78dcac585d494478dd605e06f63ba8"
+hash = "2b3a5c0fd2669b3172baa28d2cf3f7458c6928bd58929387853ae98165dac3fe"
 metafile = true
 
 [[files]]

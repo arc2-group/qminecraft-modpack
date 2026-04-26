@@ -1,13 +1,13 @@
 name = "SkinsRestorer"
-filename = "SkinsRestorer-Mod-Fabric-15.10.0.jar"
+filename = "SkinsRestorer-Mod-Fabric-15.11.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/TsLS8Py5/versions/l9XVM0hJ/SkinsRestorer-Mod-Fabric-15.10.0.jar"
+url = "https://cdn.modrinth.com/data/TsLS8Py5/versions/MD0HyeAx/SkinsRestorer-Mod-Fabric-15.11.0.jar"
 hash-format = "sha512"
-hash = "519cc536ee67bc9f22a06255de9b1f32ef2f09ec60a9a78428f27d873957a897ebcbac98ddf7e31de4df39a55a1a57d33caff1a129ac6c748b3d522e936b35de"
+hash = "347388ff1f9989c294945dca49d0a735092e4cd64291950d370f0773fed4fe05663121d0c0f0f9f34c90542077f2828793925a930d21426992588cb13f1cf094"
 
 [update]
 [update.modrinth]
 mod-id = "TsLS8Py5"
-version = "l9XVM0hJ"
+version = "MD0HyeAx"
