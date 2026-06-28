@@ -1,13 +1,13 @@
 name = "FabricExporter"
-filename = "fabricexporter-1.0.20.jar"
+filename = "fabricexporter-26.1-1.0.21.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/dbVXHSlv/versions/D7LrQrIU/fabricexporter-1.0.20.jar"
+url = "https://cdn.modrinth.com/data/dbVXHSlv/versions/l5Bq2Y09/fabricexporter-26.1-1.0.21.jar"
 hash-format = "sha512"
-hash = "7d6ac1aabaf22a62f331735670db15cb0d66e9bc06aa2f94a65c6f01877e27fbc498ae9d6e305aa307aa3b91b317df6ee3ae843bfc380e6d1a9486b8e331b6bf"
+hash = "0d2cb513bda2ce1c819e4d3f604660fb6b4966ddab68c28bb53ae41e0d493645e26a5cd38cf91c8c3db7894cf77c5f1befbf9774e0ae58e0234ecc958cdc5b2d"
 
 [update]
 [update.modrinth]
 mod-id = "dbVXHSlv"
-version = "D7LrQrIU"
+version = "l5Bq2Y09"

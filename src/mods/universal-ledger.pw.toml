@@ -3,11 +3,11 @@ filename = "universalledger-1.2.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/2lSR2KuV/versions/jMGRRdvn/universalledger-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/2lSR2KuV/versions/Kve9plLE/universalledger-1.2.1.jar"
 hash-format = "sha512"
-hash = "6fdfa48798550935a24a802779b74681500978ba45ac56fdbb95c6d86bd4e4c17989d1a5a136649384a674dafb820cc8c35d15393fc284505dc1eb367469920d"
+hash = "468718653bcc46b49c89bc82355a8ac01e8d805a5de6bb4ae381b8acf9d0f64c3fbc6ea470cfee4316798caeafe6a681c98cb30cdc8397ad5148a755281b4bd5"
 
 [update]
 [update.modrinth]
 mod-id = "2lSR2KuV"
-version = "jMGRRdvn"
+version = "Kve9plLE"

@@ -1,13 +1,13 @@
 name = "Vanish"
-filename = "vanish-1.6.8+1.21.11.jar"
+filename = "vanish-1.6.14+26.1.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/UL4bJFDY/versions/qjFC7E92/vanish-1.6.8%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/UL4bJFDY/versions/unJ5VjgV/vanish-1.6.14%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "85a31d945cbea04fabc3800bc467eb1ba2956752196a7414cbc0c4235234679d033e2f4809fd3b7ad4448a30a0c0bdc2a7d30b54b49f7d1cc9b2c329947532bc"
+hash = "bc26b1d06ee22434285a509d138a5e5d11039666649722322859111c2f4f8433a6415f868c2864bd544092ec7a57cdc343f8bbb348d7bd008719490a5d463c6f"
 
 [update]
 [update.modrinth]
 mod-id = "UL4bJFDY"
-version = "qjFC7E92"
+version = "unJ5VjgV"
