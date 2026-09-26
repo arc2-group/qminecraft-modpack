@@ -1,12 +1,12 @@
 name = "Queer Minecraft Server Modpack"
 author = "arc2-group"
-version = "3.5.1"
+version = "3.5.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3cda5757d3ca8caacc1dd09747b0a53d2e81c47cf60fd249521b0e4bf6ea0630"
+hash = "57dbb663d2f0c9ae3dc4ae76335b932c5962be8d54ff684b25f4da0cfdb20e46"
 
 [versions]
 fabric = "0.19.3"

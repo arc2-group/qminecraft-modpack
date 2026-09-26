@@ -1,13 +1,13 @@
 name = "Mob Heads"
-filename = "mob-heads-v4.7.0.jar"
+filename = "mob-heads-v4.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/82uI0waE/versions/e2SwZvOh/mob-heads-v4.7.0.jar"
+url = "https://cdn.modrinth.com/data/82uI0waE/versions/Gg0IftfV/mob-heads-v4.7.2.jar"
 hash-format = "sha512"
-hash = "9a3b921c4a1be130be78e23674631a418e5db802f6114449db2a779f1f3af6c8ff8db69dbba09acea536169b24e1654771bb571e4a02010ef566b6b18b2e06eb"
+hash = "a88fd155340baece04e3f442d95ccb83b3896c208bfb4f3dfd118c8dc8be3557c5ea0a8e01fa7d9e827c8970caf852e7d8e52e39cab8ee2c2b88d381f9270f6c"
 
 [update]
 [update.modrinth]
 mod-id = "82uI0waE"
-version = "e2SwZvOh"
+version = "Gg0IftfV"

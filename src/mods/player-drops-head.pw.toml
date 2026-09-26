@@ -1,13 +1,13 @@
 name = "Player Drops Head"
-filename = "player-drops-head-v3.6.2.1.jar"
+filename = "player-drops-head-v3.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cz5Ve1NT/versions/cKab9P4U/player-drops-head-v3.6.2.1.jar"
+url = "https://cdn.modrinth.com/data/cz5Ve1NT/versions/YyFGjwrE/player-drops-head-v3.6.3.jar"
 hash-format = "sha512"
-hash = "4f99e9f868126e1d0e240ca7a9bab04f95b0c09c1bdba89c258b57fb713166a8132e5d49b79f93e56d872c1eb262b27a394e3affd74fdce726c77a68e35bc471"
+hash = "6af5ae057c03bbfacc63ef564f5c662a12bd0fb580381f76273af9b87c515016cea97d77369adf0896b195114f885d8fd6ce1bdab035451e79851152f76ab880"
 
 [update]
 [update.modrinth]
 mod-id = "cz5Ve1NT"
-version = "cKab9P4U"
+version = "YyFGjwrE"

@@ -90,7 +90,7 @@ hash = "4bd7c892ddae19d7fb87e4a34b577d8559191c0fe1c0b893fd2684538e897601"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e6437f543512e4103bae1bb72ce87c4c66da3bcbd88637143d71053b82bc07b0"
+hash = "753942de18dbd1681d5568a796e8a7b4e9057f2c74eb3630e685b1227245d03e"
 metafile = true
 
 [[files]]
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "ff2f4fbdd28753bcc8e95a886a355e14b1f474f653e92a0ddc4e615b3aa870c5"
+hash = "a34fae460bcb540ea9d3a6a1322e9c7991071e5433d4331537668eba4b5391e8"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "298bb7ba6652ce3664375e597c4a2e54510e840d22ac656fefc36096335c9202"
+hash = "2f528064285af8c6da4aaa18913c40acaf8992110754196bf8cc77ef75a32c23"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "2cc32f353cd0653d2964a5ca20ba8d4059e19d3c4bd59832f9b14765fddbeee1"
+hash = "f95f89574cacc8db2b2ea06095d9db909085862f93c4e63e9b6e4e74ee0583d8"
 metafile = true
 
 [[files]]
@@ -130,12 +130,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cab10ce7de1bd313d5dc6753f402f1123ff7571373ef185675c862e7cbf4369e"
+hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
@@ -160,12 +160,12 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "e28df2580f1f323ce589abff805c92c1e24427dd6e5998da60afe0a2ba9f8729"
+hash = "e1e3f6944fdce43831d5dcf4b7829fec776adddfb8b824ff59de965f7db93e73"
 metafile = true
 
 [[files]]
 file = "mods/grimac.pw.toml"
-hash = "5c2cfb8096b4a440a00a0f52dfa9483342b6880f2f30b608365a6af31981886c"
+hash = "130114b15c57d4c5ed5c320f36ca1521b3a85760b1ac8f448ba249f3e93e2473"
 metafile = true
 
 [[files]]
@@ -180,17 +180,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cd37520fbb14b8d5e9471d8c25324736e02dcf3be4b7c5df1699757b2264049f"
+hash = "ff3b8e19820888b63a129f5c5769a1671bda1e1376de0deb216c6862f0feca2d"
 metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
+hash = "abaff630ec5a2f28ada62238b81a05313d5609282fa182ca64ba1bab7953d9ee"
 metafile = true
 
 [[files]]
 file = "mods/mob-heads.pw.toml"
-hash = "9719426a40819bba90ef758335a7bdb02398b1fe0338d961f8bc41bfb98788fc"
+hash = "f072c101336cbdc33bb747525591e6733569cba35b8f07ff3fae77e7d118b74b"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-drops-head.pw.toml"
-hash = "954890ef89b441e23a3075c8030669c2b8e9271cbca0a60edf7392ef6918d7e0"
+hash = "bd7af9cc22b74fcd64b8490312da91a64efe97aa90084c516bb758f496e672b5"
 metafile = true
 
 [[files]]
@@ -210,12 +210,12 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
+hash = "80449d5aca8411de1cd373e9117fb4ff3962e902d023d651b134851883a05f6e"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e0fd4f6062972d51fd78d9116cb61f1505c56a1dccfb64ae16453b5faff605e8"
+hash = "6b68ddb23f1306e5f73e89d48e7bea8bf97eb136721b9b6cd57f235dac01e97b"
 metafile = true
 
 [[files]]
@@ -225,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c7b6e4a7666e9e64a70df0b550db2e25f7150d4c1c2c2e79e81dfbc036ce3a25"
+hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
 metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "694549a06bdc8b37262958fbcb26eec57df96c2a624cd05378f025289639efce"
+hash = "e186e4c70e17d155eca5b61d65fa677eecab9701612c3fc19bbf25db7ea8ab38"
 metafile = true
 
 [[files]]
@@ -240,17 +240,17 @@ metafile = true
 
 [[files]]
 file = "mods/vanish.pw.toml"
-hash = "55577479c366e5042ac8ab338a7b24aeac7f3ec6c35336bb17cb30a6c4129490"
+hash = "7f43ce71d81f22bf7e2378df57ba6340ad50808d5dcbe4a64c458cfd8a02dced"
 metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "c5f585e7bbddfef6301d676cd2f5f5cc097730cd6b973a483452ed139a0b96cf"
+hash = "5411981d04f4226ea2f0e9c170eb2b6dc104df345a2966c0078fe44cc55dde09"
 metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "ca543bc893b1a38f7647d5dd1a20e9f0f2ad0d6876e9c062766d54fb6894867c"
+hash = "aef1185fdcfc95a41fe3dd2991f7261eb65ff04a48672f62e779177e73a06d25"
 metafile = true
 
 [[files]]
